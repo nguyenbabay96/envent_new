@@ -239,15 +239,15 @@ body.et_vertical_nav .container.et_search_form_container .et-search-form input {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Abel', Helvetica, Arial, Lucida, sans-serif
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif
 }
 
 body, input, textarea, select {
-    font-family: 'Abel', Helvetica, Arial, Lucida, sans-serif
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif
 }
 
 #main-header, #et-top-navigation {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif
 }
 
 .agenda-sidebar-holder {
@@ -445,7 +445,7 @@ body, input, textarea, select {
 div.et_pb_section.et_pb_section_0 {
     background-blend-mode: darken;
     background-image: url(../../../uploads/2018/08/atlantaBackgroundFinal.jpg) !important
-    background-color: #3e3e3e52;
+    /*background-color: #3e3e3e52;*/
 }
 
 .et_pb_team_member_17.et_pb_team_member * {
@@ -870,7 +870,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_34 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 32px;
     color: #000000 !important;
     letter-spacing: 3px;
@@ -892,7 +892,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_33 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 32px;
     color: #000000 !important;
     letter-spacing: 3px;
@@ -936,7 +936,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_31 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 32px;
     color: #000000 !important;
     letter-spacing: 3px;
@@ -955,7 +955,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_30 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 32px;
     color: #000000 !important;
     letter-spacing: 3px;
@@ -1032,7 +1032,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_35 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 32px;
     color: #000000 !important;
     letter-spacing: 3px;
@@ -1143,7 +1143,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_25 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 32px;
     color: #000000 !important;
     letter-spacing: 3px;
@@ -1176,7 +1176,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_28 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 32px;
     color: #000000 !important;
     letter-spacing: 3px;
@@ -1212,7 +1212,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_26 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 32px;
     color: #000000 !important;
     letter-spacing: 3px;
@@ -1304,7 +1304,7 @@ div.et_pb_section.et_pb_section_0 {
 }
 
 .et_pb_text_7 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 40px;
     color: #ffffff !important;
     letter-spacing: 3px;
@@ -1427,7 +1427,7 @@ body #page-container .et_pb_cta_0.et_pb_promo .et_pb_button {
 }
 
 .et_pb_text_11 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 32px;
     color: #ffffff !important;
     letter-spacing: 3px;
@@ -1527,7 +1527,7 @@ body #page-container .et_pb_cta_0.et_pb_promo .et_pb_button {
 }
 
 .et_pb_text_0 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif
 }
 
 .et_pb_image_0 {
@@ -1644,7 +1644,7 @@ body #page-container .et_pb_button_0 {
     color: #000000 !important;
     letter-spacing: 2px;
     font-size: 30px;
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif !important;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif !important;
     background-color: #0bb5c1
 }
 
@@ -1816,7 +1816,7 @@ body #page-container .et_pb_button_0 {
 }
 
 .et_pb_text_12 h1 {
-    font-family: 'Code Bold', Helvetica, Arial, Lucida, sans-serif;
+    font-family: 'Source Han Sans CN', Helvetica, Arial, Lucida, sans-serif;
     font-size: 32px;
     color: #ffffff !important;
     letter-spacing: 3px;

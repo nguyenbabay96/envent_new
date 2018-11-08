@@ -207,7 +207,7 @@
             <div class="logo_container">
                 <span class="logo_helper"></span>
                 <a href="{{url('/')}}/}index.html">
-                    <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/08/cryptolinaGenLogo.png" alt="Blockchain Experience Atlanta" id="logo" data-height-percentage="100"/>
+                    <img style="padding: 10px;" src="{{url('/')}}/master/assets/wp-content/uploads/2018/08/logo_nbc.png" alt="Blockchain Experience Atlanta" id="logo" data-height-percentage="100"/>
                 </a>
             </div>
             <div id="et-top-navigation" data-height="60" data-fixed-height="50">
@@ -285,13 +285,13 @@
                                         <div class="et_pb_module et_pb_image et_pb_image_0 et_always_center_on_mobile">
 
 
-                                            <span class="et_pb_image_wrap"><img src="{{url('/')}}/master/assets/wp-content/uploads/2018/08/ABE_logo.png" alt=""/></span>
+                                            <span class="et_pb_image_wrap"><img src="{{url('/')}}/master/assets/wp-content/uploads/2018/08/logo_slide.png" alt=""/></span>
                                         </div>
                                         <div class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_left">
 
 
                                             <div class="et_pb_text_inner">
-                                                <h2 style="    text-transform: uppercase;font-family: Source Han Sans CN;letter-spacing: 8px;">HỘI NGHỊ BLOCKCHAIN MỚI ĐÔNG NAM Á</h2>
+                                                <h2 style="    text-transform: uppercase;letter-spacing: 5px;font-weight: bold">HỘI NGHỊ BLOCKCHAIN MỚI ĐÔNG NAM Á</h2>
                                             </div>
                                         </div> <!-- .et_pb_text -->
                                         <div class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_left">
@@ -299,8 +299,7 @@
 
                                             <div class="et_pb_text_inner">
                                                 <h2><a href="#" style="font-size: 31px;
-    letter-spacing: 4px; text-transform: uppercase;
-    font-family: Source Han Sans CN;">
+    letter-spacing: 4px; text-transform: uppercase;">
                                                     Sheraton Saigon Hotel</a></h2>
                                                 <h2></h2>
                                             </div>
@@ -310,8 +309,7 @@
 
                                             <div class="et_pb_text_inner">
                                                 <h3 style="    font-size: 31px;
-    letter-spacing: 2px;
-    font-family: Source Han Sans CN;">01.12 - 04.12.2018, Hồ Chí Minh – Việt Nam
+    letter-spacing: 2px;">01.12 - 04.12.2018, Hồ Chí Minh – Việt Nam
                                                 </h3>
                                             </div>
                                         </div> <!-- .et_pb_text -->
@@ -337,7 +335,7 @@
 
 
                             </div> <!-- .et_pb_section -->
-                            <div id="about" class="et_pb_with_border et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
+                            <div id="about" style="padding-top: 30px" class="et_pb_with_border et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider">
 
 
                                 <div class="et_pb_row et_pb_row_2 et_pb_row_fullwidth">
@@ -351,8 +349,7 @@
 
 
                                             <div class="et_pb_text_inner">
-                                                <h1 style="text-align: center;">Cryptolina Presents<br/>
-                                                    The Atlanta Blockchain Experience / #ABE2018!</h1>
+                                                <h1 style="text-align: center;">GIỚI THIỆU
                                             </div>
                                         </div> <!-- .et_pb_text -->
                                     </div> <!-- .et_pb_column -->
@@ -367,12 +364,8 @@
 
 
                                             <div class="et_pb_text_inner">
-                                                The Atlanta Blockchain Experience&#8217;s (ABE) mission is to establish Atlanta as a global hub for blockchain innovation and investment. With a focus on networking, building business, and fully interactive sessions, ABE2018 is a unique opportunity to bring all aspects of blockchain and tokenization together in Atlanta! <strong><br/>
-                                                </strong></p>
-                                                <p><strong>#ABE2018 will feature education, innovation, networking, and more. With an Ask Me Anything event, amazing speaker line up, and many other surprises, #ABE2018 will be a truly unique event. </strong></p>
-                                                <p>Expected to attract 1<em>00+ attendees, 20+ speakers, </em>#ABE2018 is an intimate, goal minded experience! Our focus is to bring people together and give everyone an opportunity to participate and interact not only with fellow attendees, but with our speakers and sponsors as well.</p>
-                                                <p style="text-align: left;">Hosted by <a style="color: #f19f00;" href="https://ternio.io/" target="new">Ternio</a>, The World’s Fastest Blockchain, ABE2018 will feature 20+ speakers &amp; 10+ exhibitors. The Atlanta Blockchain Experience will be a precursor event preparing for the upcoming ABE2019 coming next fall, a major 2-Day Blockchain Conference for the Atlanta Metropolitan area. As always, our focus is to bring people together and give everyone an opportunity to participate and interact not only with fellow attendees, but with our speakers and sponsors as well.</p>
-                                                <p style="text-align: left;">Join us and build your business, educate your team, recruit talent, and forward your industry leadership!</p>
+                                                <p style="text-align: left;">Hội nghị Blockchain Đông Nam Á - NewFuture được tổ chức để kết nối giao lưu hợp tác giữa ngành công nghiệp Blockchain khu vực Đông Nam Á với thế giới. Hội nghị cũng là nơi hội tụ của các dự án Blockchain chất lượng cao cùng nhiều nhân tài công nghệ đến từ khắp nơi trên thế giới. Hội nghị NewFuture là cơ hội để tiếp cận các nguồn tài nguyên, xúc tiến dự án, tiếp xúc với các doanh nghiệp trong và ngoài nước, tiến tới hợp tác đầu tư và hơn thế nữa. Từ đó tăng cường tích hợp, mở rộng việc ứng dụng công nghệ Blockchain vào đời sống, chia sẻ các lợi ích chung và giúp Việt Nam kịp thời nắm bắt những bước tiến mới trong sự phát triển của ngành công nghiệp Blockchain toàn cầu.</p>
+                                                <p style="text-align: left;">Hội nghị Blockchain Đông Nam Á - NewFuture được tổ chức để kết nối giao lưu hợp tác giữa ngành công nghiệp Blockchain khu vực Đông Nam Á với thế giới. Hội nghị cũng là nơi hội tụ của các dự án Blockchain chất lượng cao cùng nhiều nhân tài công nghệ đến từ khắp nơi trên thế giới. Hội nghị NewFuture là cơ hội để tiếp cận các nguồn tài nguyên, xúc tiến dự án, tiếp xúc với các doanh nghiệp trong và ngoài nước</p>
                                             </div>
                                         </div> <!-- .et_pb_text -->
                                     </div> <!-- .et_pb_column -->
@@ -467,30 +460,6 @@
 
 
                                 </div> <!-- .et_pb_row -->
-                                <div class="et_pb_row et_pb_row_5 et_pb_row_fullwidth">
-                                    <div class="et_pb_column et_pb_column_4_4 et_pb_column_5    et_pb_css_mix_blend_mode_passthrough et-last-child">
-
-
-                                        <div class="et_pb_module et_pb_text et_pb_text_10 et_pb_bg_layout_light  et_pb_text_align_left">
-
-
-                                            <div class="et_pb_text_inner">
-                                                <p><strong>Note: Entrance is on White St. Use 1003 White St for more accurate GPS mapping results.</strong></p>
-                                            </div>
-                                        </div> <!-- .et_pb_text -->
-                                        <div class="et_pb_module et_pb_map_0 et_pb_map_container">
-
-
-                                            <div class="et_pb_map" data-center-lat="33.7305309" data-center-lng="-84.4179917" data-zoom="18" data-mouse-wheel="on" data-mobile-dragging="on"></div>
-                                            <div class="et_pb_map_pin" data-lat="33.7305309" data-lng="-84.4179917" data-title="GARAGE at Monday Night Brewing">
-                                                <h3 style="margin-top: 10px;">GARAGE at Monday Night Brewing</h3>
-
-                                            </div>
-                                        </div>
-                                    </div> <!-- .et_pb_column -->
-
-
-                                </div> <!-- .et_pb_row -->
 
 
                             </div> <!-- .et_pb_section -->
@@ -522,7 +491,44 @@
 
 
                                             <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
-                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/t1.jpg" alt="Shannon Code"/>
+                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n4.jpg" alt="Shannon Code"/>
+                                            </div>
+                                            <div class="et_pb_team_member_description">
+                                                <h4 class="et_pb_module_header">Kukkong Ruckphaopunt
+                                                </h4>
+                                                <p class="et_pb_member_position">
+                                                    Executive Vice President
+                                                    at Bangkok Bank</p>
+
+                                            </div> <!-- .et_pb_team_member_description -->
+                                        </div> <!-- .et_pb_team_member -->
+                                    </div> <!-- .et_pb_column -->
+                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_12    et_pb_css_mix_blend_mode_passthrough">
+
+
+                                        <div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_5 et_animated et_pb_bg_layout_light clearfix  et_pb_text_align_right">
+
+
+                                            <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
+                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n5.jpg" alt="Dawn Code"/>
+                                            </div>
+                                            <div class="et_pb_team_member_description">
+                                                <h4 class="et_pb_module_header">Eric Zhang
+                                                </h4>
+                                                <p class="et_pb_member_position">
+                                                    Vice President of Institude of ASEAN Digital Economic Innovation</p>
+
+                                            </div> <!-- .et_pb_team_member_description -->
+                                        </div> <!-- .et_pb_team_member -->
+                                    </div> <!-- .et_pb_column -->
+                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_11    et_pb_css_mix_blend_mode_passthrough">
+
+
+                                        <div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_4 et_animated et_pb_bg_layout_light clearfix  et_pb_text_align_right">
+
+
+                                            <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
+                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/nv1.jpg" alt="Shannon Code"/>
                                             </div>
                                             <div class="et_pb_team_member_description">
                                                 <h4 class="et_pb_module_header">David Nguyen Vu</h4>
@@ -554,6 +560,23 @@
 
 
                                             <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
+                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n30.jpg" alt="Eric Porper"/>
+                                            </div>
+                                            <div class="et_pb_team_member_description">
+                                                <h4 class="et_pb_module_header">Thuc Vu</h4>
+                                                <p class="et_pb_member_position">
+                                                    Founder of Kambria</p>
+
+                                            </div> <!-- .et_pb_team_member_description -->
+                                        </div> <!-- .et_pb_team_member -->
+                                    </div> <!-- .et_pb_column -->
+                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_13    et_pb_css_mix_blend_mode_passthrough et-last-child">
+
+
+                                        <div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_6 et_animated et_pb_bg_layout_light clearfix  et_pb_text_align_right">
+
+
+                                            <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
                                                 <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n1.jpg" alt="Eric Porper"/>
                                             </div>
                                             <div class="et_pb_team_member_description">
@@ -564,6 +587,11 @@
                                             </div> <!-- .et_pb_team_member_description -->
                                         </div> <!-- .et_pb_team_member -->
                                     </div> <!-- .et_pb_column -->
+
+
+
+                                </div> <!-- .et_pb_row -->
+                                <div class="et_pb_row et_pb_row_8">
                                     <div class="et_pb_column et_pb_column_1_4 et_pb_column_14    et_pb_css_mix_blend_mode_passthrough">
 
 
@@ -582,25 +610,7 @@
                                             </div> <!-- .et_pb_team_member_description -->
                                         </div> <!-- .et_pb_team_member -->
                                     </div> <!-- .et_pb_column -->
-                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_15    et_pb_css_mix_blend_mode_passthrough">
-
-
-                                        <div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_7 et_animated et_pb_bg_layout_light clearfix  et_pb_text_align_right">
-
-
-                                            <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
-                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n7.jpg" alt="John Bridge"/>
-                                            </div>
-                                            <div class="et_pb_team_member_description">
-                                                <h4 class="et_pb_module_header">Nguyen Minh Thao
-                                                </h4>
-                                                <p class="et_pb_member_position">
-                                                    Founder of Umbala Network</p>
-
-                                            </div> <!-- .et_pb_team_member_description -->
-                                        </div> <!-- .et_pb_team_member -->
-                                    </div> <!-- .et_pb_column -->
-                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_16    et_pb_css_mix_blend_mode_passthrough et-last-child">
+                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_16    et_pb_css_mix_blend_mode_passthrough">
 
 
                                         <div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_7 et_animated et_pb_bg_layout_light clearfix  et_pb_text_align_right">
@@ -617,61 +627,20 @@
                                             </div> <!-- .et_pb_team_member_description -->
                                         </div> <!-- .et_pb_team_member -->
                                     </div> <!-- .et_pb_column -->
+                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_15    et_pb_css_mix_blend_mode_passthrough">
 
 
-                                </div> <!-- .et_pb_row -->
-                                <div class="et_pb_row et_pb_row_8">
-                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_11    et_pb_css_mix_blend_mode_passthrough">
-
-
-                                        <div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_4 et_animated et_pb_bg_layout_light clearfix  et_pb_text_align_right">
+                                        <div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_7 et_animated et_pb_bg_layout_light clearfix  et_pb_text_align_right">
 
 
                                             <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
-                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n4.jpg" alt="Shannon Code"/>
+                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n7.jpg" alt="John Bridge"/>
                                             </div>
                                             <div class="et_pb_team_member_description">
-                                                <h4 class="et_pb_module_header">Kukkong Ruckphaopunt
+                                                <h4 class="et_pb_module_header">Nguyen Minh Thao
                                                 </h4>
                                                 <p class="et_pb_member_position">
-                                                    Executive Vice President
-                                                    at Bangkok Bank</p>
-
-                                            </div> <!-- .et_pb_team_member_description -->
-                                        </div> <!-- .et_pb_team_member -->
-                                    </div> <!-- .et_pb_column -->
-                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_12    et_pb_css_mix_blend_mode_passthrough">
-
-
-                                        <div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_5 et_animated et_pb_bg_layout_light clearfix  et_pb_text_align_right">
-
-
-                                            <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
-                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n26.jpg" alt="Dawn Code"/>
-                                            </div>
-                                            <div class="et_pb_team_member_description">
-                                                <h4 class="et_pb_module_header">Alex Linenko</h4>
-                                                <p class="et_pb_member_position">
-                                                    Chief Business Development Officer
-                                                    at ICOBox</p>
-
-                                            </div> <!-- .et_pb_team_member_description -->
-                                        </div> <!-- .et_pb_team_member -->
-                                    </div> <!-- .et_pb_column -->
-                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_13    et_pb_css_mix_blend_mode_passthrough">
-
-
-                                        <div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_6 et_animated et_pb_bg_layout_light clearfix  et_pb_text_align_right">
-
-
-                                            <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
-                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n15.jpg" alt="Eric Porper"/>
-                                            </div>
-                                            <div class="et_pb_team_member_description">
-                                                <h4 class="et_pb_module_header">Nguyen Dinh Trung</h4>
-                                                <p class="et_pb_member_position">
-                                                    Co-founder of iBLOCKCHAIN
-                                                    ACADEMY</p>
+                                                    Founder of Umbala Network</p>
 
                                             </div> <!-- .et_pb_team_member_description -->
                                         </div> <!-- .et_pb_team_member -->
@@ -758,13 +727,13 @@
 
 
                                             <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
-                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n5.jpg" alt="Dawn Code"/>
+                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n26.jpg" alt="Dawn Code"/>
                                             </div>
                                             <div class="et_pb_team_member_description">
-                                                <h4 class="et_pb_module_header">Eric Zhang
-                                                </h4>
+                                                <h4 class="et_pb_module_header">Alex Linenko</h4>
                                                 <p class="et_pb_member_position">
-                                                    Vice President of Institude of ASEAN Digital Economic Innovation</p>
+                                                    Chief Business Development Officer
+                                                    at ICOBox</p>
 
                                             </div> <!-- .et_pb_team_member_description -->
                                         </div> <!-- .et_pb_team_member -->
@@ -839,6 +808,25 @@
                                             </div> <!-- .et_pb_team_member_description -->
                                         </div> <!-- .et_pb_team_member -->
                                     </div> <!-- .et_pb_column -->
+                                    <div class="et_pb_column et_pb_column_1_4 et_pb_column_13    et_pb_css_mix_blend_mode_passthrough">
+
+
+                                        <div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_6 et_animated et_pb_bg_layout_light clearfix  et_pb_text_align_right">
+
+
+                                            <div class="et_pb_team_member_image et-waypoint et_pb_animation_off">
+                                                <img src="{{url('/')}}/master/assets/wp-content/uploads/2018/09/n15.jpg" alt="Eric Porper"/>
+                                            </div>
+                                            <div class="et_pb_team_member_description">
+                                                <h4 class="et_pb_module_header">Nguyen Dinh Trung</h4>
+                                                <p class="et_pb_member_position">
+                                                    Co-founder of iBLOCKCHAIN
+                                                    ACADEMY</p>
+
+                                            </div> <!-- .et_pb_team_member_description -->
+                                        </div> <!-- .et_pb_team_member -->
+                                    </div> <!-- .et_pb_column -->
+
 
                                 </div> <!-- .et_pb_row -->
 
