@@ -2,57 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="370b20a1-9f5b-4d80-96ff-8e88817745dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/themes/Divi/style_bay.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/themes/Divi/style_bay.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/t9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/08/logo_nbc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/08/logo_slide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/nv1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/master/assets/wp-content/cache/et/210/et-core-unified-15411775352068.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/master/assets/wp-content/cache/et/210/et-core-unified-15411775352068.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/master/assets/wp-content/cache/et/287/et-core-unified-1541179187382.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/master/assets/wp-content/cache/et/287/et-core-unified-1541179187382.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/master/assets/wp-content/cache/et/9/et-core-unified-15411774572407.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/master/assets/wp-content/cache/et/9/et-core-unified-15411774572407.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/master/assets/wp-content/themes/Divi/styledb03.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/master/assets/wp-content/themes/Divi/styledb03.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,20 +21,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="497" column="49" selection-start-line="497" selection-start-column="44" selection-end-line="497" selection-end-column="49" />
+            <state relative-caret-position="189">
+              <caret line="337" column="65" selection-start-line="337" selection-start-column="65" selection-end-line="337" selection-end-column="65" />
               <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#h2#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#3;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#3;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#4;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#div#3;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -85,11 +59,33 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="et-core-unified-1541179187382.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/cache/et/287/et-core-unified-1541179187382.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret column="8812" selection-start-column="8812" selection-end-column="8812" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="et-core-unified-15411774572407.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/cache/et/9/et-core-unified-15411774572407.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-765">
-              <caret line="447" column="32" selection-start-line="447" selection-start-column="32" selection-end-line="447" selection-end-column="32" />
+            <state relative-caret-position="1067">
+              <caret line="249" column="36" selection-start-line="249" selection-start-column="36" selection-end-line="249" selection-end-column="36" />
+              <caret line="872" column="36" selection-start-line="872" selection-start-column="36" selection-end-line="872" selection-end-column="36" />
+              <caret line="894" column="36" selection-start-line="894" selection-start-column="36" selection-end-line="894" selection-end-column="36" />
+              <caret line="938" column="36" selection-start-line="938" selection-start-column="36" selection-end-line="938" selection-end-column="36" />
+              <caret line="957" column="36" selection-start-line="957" selection-start-column="36" selection-end-line="957" selection-end-column="36" />
+              <caret line="1034" column="36" selection-start-line="1034" selection-start-column="36" selection-end-line="1034" selection-end-column="36" />
+              <caret line="1145" column="36" selection-start-line="1145" selection-start-column="36" selection-end-line="1145" selection-end-column="36" />
+              <caret line="1178" column="36" selection-start-line="1178" selection-start-column="36" selection-end-line="1178" selection-end-column="36" />
+              <caret line="1214" column="36" selection-start-line="1214" selection-start-column="36" selection-end-line="1214" selection-end-column="36" />
+              <caret line="1306" column="36" selection-start-line="1306" selection-start-column="36" selection-end-line="1306" selection-end-column="36" />
+              <caret line="1429" column="36" selection-start-line="1429" selection-start-column="36" selection-end-line="1429" selection-end-column="36" />
+              <caret line="1529" column="36" selection-start-line="1529" selection-start-column="36" selection-end-line="1529" selection-end-column="36" />
+              <caret line="1646" column="36" selection-start-line="1646" selection-start-column="36" selection-end-line="1646" selection-end-column="36" />
+              <caret line="1818" column="36" selection-start-line="1818" selection-start-column="36" selection-end-line="1818" selection-end-column="36" />
               <folding>
                 <element signature="e#13740#14207#2" expanded="true" />
                 <element signature="e#15316#15783#2" expanded="true" />
@@ -127,11 +123,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style_bay.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style_bay.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/themes/Divi/style_bay.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="378">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -153,8 +149,15 @@
       <find>A Unique, Kick-Off Event Focused on Blockchain Adoption, Use Cases, and Building Your Network!</find>
       <find>et_pb_button_wrapper</find>
       <find>styledb0</find>
-      <find>div.et_pb_section.et_pb_section_0</find>
       <find>et_pb_section et_pb_section_4 et_pb_with_background et_section_regular</find>
+      <find>heraton Saigon Hotel</find>
+      <find>'Abel',Helvetica,Arial,Lucida,sans-serif</find>
+      <find>Source Han Sans CN</find>
+      <find>'Abel', Helvetica, Arial, Lucida, sans-serif</find>
+      <find>'Code Bold', Helvetica, Arial, Lucida, sans-serif</find>
+      <find>div.et_pb_section.et_pb_section_0</find>
+      <find>master/assets/wp-content/uploads/2018/09/n4.jpg</find>
+      <find>n27</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -167,11 +170,12 @@
         <option value="$PROJECT_DIR$/linkid.html" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/public/master/assets/wp-content/cache/et/9/et-core-unified-15411774572407.min.css" />
-        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
         <option value="$PROJECT_DIR$/public/master/assets/wp-content/themes/Divi/styledb03.css" />
         <option value="$PROJECT_DIR$/public/master/assets/wp-content/themes/Divi/style_bay.scss" />
         <option value="$PROJECT_DIR$/public/master/assets/wp-content/themes/Divi/style_bay.css" />
+        <option value="$PROJECT_DIR$/public/master/assets/wp-content/cache/et/287/et-core-unified-1541179187382.min.css" />
+        <option value="$PROJECT_DIR$/public/master/assets/wp-content/cache/et/9/et-core-unified-15411774572407.min.css" />
+        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
       </list>
     </option>
   </component>
@@ -319,6 +323,17 @@
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="2018" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="08" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="event_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="event_new" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="master" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="2018" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="09" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -364,6 +379,7 @@
       <recent name="F:\newcater\event_new\event_new\public\assets" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\newcater\event_new\public\master\assets\wp-content\uploads\2018\08" />
       <recent name="F:\newcater\event_new\public\master\assets\wp-content\themes\Divi" />
       <recent name="F:\newcater\event_new\public\master\assets\wp-content\uploads\2018\09" />
       <recent name="F:\newcater\event_new\public" />
@@ -393,12 +409,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541517471328</updated>
       <workItem from="1541517472564" duration="1951000" />
-      <workItem from="1541677875251" duration="12365000" />
+      <workItem from="1541677875251" duration="16483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14316000" />
+    <option name="totallyTimeSpent" value="18434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -526,13 +542,7 @@
     <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n29.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n28.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n27.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n26.jpg">
+    <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n30.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n24.jpg">
@@ -610,37 +620,6 @@
     <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n9.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/cache/et/9/et-core-unified-15411774572407.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765">
-          <caret line="447" column="32" selection-start-line="447" selection-start-column="32" selection-end-line="447" selection-end-column="32" />
-          <folding>
-            <element signature="e#13740#14207#2" expanded="true" />
-            <element signature="e#15316#15783#2" expanded="true" />
-            <element signature="e#38286#38629#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="497" column="49" selection-start-line="497" selection-start-column="44" selection-end-line="497" selection-end-column="49" />
-          <folding>
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#h2#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/themes/Divi/styledb03.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
@@ -667,8 +646,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/themes/Divi/style_bay.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="378">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/cache/et/287/et-core-unified-1541179187382.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret column="8812" selection-start-column="8812" selection-end-column="8812" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/cache/et/9/et-core-unified-15411774572407.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1067">
+          <caret line="249" column="36" selection-start-line="249" selection-start-column="36" selection-end-line="249" selection-end-column="36" />
+          <caret line="872" column="36" selection-start-line="872" selection-start-column="36" selection-end-line="872" selection-end-column="36" />
+          <caret line="894" column="36" selection-start-line="894" selection-start-column="36" selection-end-line="894" selection-end-column="36" />
+          <caret line="938" column="36" selection-start-line="938" selection-start-column="36" selection-end-line="938" selection-end-column="36" />
+          <caret line="957" column="36" selection-start-line="957" selection-start-column="36" selection-end-line="957" selection-end-column="36" />
+          <caret line="1034" column="36" selection-start-line="1034" selection-start-column="36" selection-end-line="1034" selection-end-column="36" />
+          <caret line="1145" column="36" selection-start-line="1145" selection-start-column="36" selection-end-line="1145" selection-end-column="36" />
+          <caret line="1178" column="36" selection-start-line="1178" selection-start-column="36" selection-end-line="1178" selection-end-column="36" />
+          <caret line="1214" column="36" selection-start-line="1214" selection-start-column="36" selection-end-line="1214" selection-end-column="36" />
+          <caret line="1306" column="36" selection-start-line="1306" selection-start-column="36" selection-end-line="1306" selection-end-column="36" />
+          <caret line="1429" column="36" selection-start-line="1429" selection-start-column="36" selection-end-line="1429" selection-end-column="36" />
+          <caret line="1529" column="36" selection-start-line="1529" selection-start-column="36" selection-end-line="1529" selection-end-column="36" />
+          <caret line="1646" column="36" selection-start-line="1646" selection-start-column="36" selection-end-line="1646" selection-end-column="36" />
+          <caret line="1818" column="36" selection-start-line="1818" selection-start-column="36" selection-end-line="1818" selection-end-column="36" />
+          <folding>
+            <element signature="e#13740#14207#2" expanded="true" />
+            <element signature="e#15316#15783#2" expanded="true" />
+            <element signature="e#38286#38629#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n28.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n26.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/master/assets/wp-content/uploads/2018/09/n27.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="337" column="65" selection-start-line="337" selection-start-column="65" selection-end-line="337" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h2#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#2;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#3;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#3;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
